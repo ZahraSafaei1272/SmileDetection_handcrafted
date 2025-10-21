@@ -1,8 +1,8 @@
 import cv2
 import joblib
 import nbimporter
-from smile_detection_preprocessing import resize_crop_img
-from smile_detection_feature_extraction import extract_feature
+from preprocessing import resize_crop_img
+from feature_extraction import extract_feature
 
 
 model_name = 'svm_model.joblib'
