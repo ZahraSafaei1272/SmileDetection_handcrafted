@@ -75,7 +75,7 @@ def resize_crop_img(images, target_w, target_h):
 
 
 def main():
-    image_paths = glob.glob('C:/Users/ASUS/Desktop/resume_project/smile_detection/detection_with_LBP&HOG/genki4k/files/*.jpg')
+    image_paths = glob.glob('files/*.jpg')
     crop_images = crop_image(image_paths)
     save_images(crop_images, filename='cropped_images')
     target_w, target_h = (256,256)
