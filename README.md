@@ -89,7 +89,7 @@ Run `Testing_webcam.py` for real-time smile detection.
 * natsort
 * joblib
 * nbimporter
-
+---
 ## 🧭 How to Use
 
 ### 1️⃣ Clone the repository
