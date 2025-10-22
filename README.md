@@ -1,7 +1,7 @@
 # 😊 Smile Detection using Computer Vision
 
 This project detects smiles in real-time using classical feature extraction technique.  
-It consists of three main stages:
+It consists of four main stages:
 
 1. **Preprocessing and Dataset Preparation**
 2. **Data Augmentation**
