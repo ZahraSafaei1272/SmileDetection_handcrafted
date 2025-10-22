@@ -109,7 +109,7 @@ python preprocessing.py
 ```bash
 python augment_images.py
 ```
-### 5️⃣ Extract feature & train the model
+### 5️⃣ Extract feature & Train the model
 ```bash
 python feature_extraction.py
 ```
@@ -117,9 +117,9 @@ python feature_extraction.py
 ```bash
 python Testing_with_webcam.py
 ```
-
+---
 ## 📊 Results
 ### Metric	Value
-* Training Accuracy	0.92
-* Testing Accuracy	0.83
+* Training Accuracy:	0.92
+* Testing Accuracy:	0.83
 
