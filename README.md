@@ -20,7 +20,7 @@ The project explores **handcrafted features(HOG + LBP)**  for classification usi
 All preprocessing scripts are included in `preprocessing.py`.
 
 **Steps include:**
-- Detecting faces in the images using the Haar Cascade classifier.
+- Detecting faces using the Haar Cascade classifier.
 - Cropping facial regions.
 - Resizing cropped images to a uniform size (`256×256`).
 
