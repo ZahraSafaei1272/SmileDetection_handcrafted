@@ -77,7 +77,7 @@ Run `Testing_webcam.py` for real-time smile detection.
 3. Extracts features (HOG+LBP).
 4. Predicts using the trained model.
 5. Draws bounding boxes and overlays “Smiling” on detected faces.
-
+---
 ## 📦 Requirements
 
 * Python 3.x
